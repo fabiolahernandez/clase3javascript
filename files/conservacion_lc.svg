@@ -26,7 +26,7 @@
 	<text transform="matrix(1 0 0 1 180 245)" class="st1 st2 st3">EW</text>
 </g>
 <g id="cr">
-	<circle class="st0" cx="342.9" cy="228.7" r="46.4"/>
+	<circle class="st4" cx="342.9" cy="228.7" r="46.4"/>
 	<text transform="matrix(1 0 0 1 313 245)" class="st1 st2 st3">CR</text>
 </g>
 <g id="en">
@@ -42,7 +42,7 @@
 	<text transform="matrix(1 0 0 1 705 245)" class="st1 st2 st3">NT</text>
 </g>
 <g id="lc">
-	<circle class="st4" cx="865.6" cy="228.7" r="46.4"/>
+	<circle class="st0" cx="865.6" cy="228.7" r="46.4"/>
 	<text transform="matrix(1 0 0 1 840 245)" class="st1 st2 st3">LC</text>
 </g>
 <g>
